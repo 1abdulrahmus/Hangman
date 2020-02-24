@@ -36,4 +36,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Template by Purple Booth
 * Special thanks to Darim Khan for his work
-* 
