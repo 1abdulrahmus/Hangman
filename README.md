@@ -2,7 +2,7 @@
 
 Hangman is a fun word game that requires the user to guess a letter from a random word unknown to them. In this version of the game we take the normal concept of the game and make it better. 
 
-![GitHub Logo](/images/logo.png)
+![Hangman Start Screen](https://ibb.co/60QQXBM)
 
 ## Getting Started
 
